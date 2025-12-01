@@ -6,7 +6,7 @@ WORKDIR="/mnt/storage/metnet/coding_llm"
 LOG_DIR="logs"
 LOG_FILE="$LOG_DIR/serve_$(date +'%Y%m%d_%H%M%S').log"
 MODEL_PATH="../models/final_finetuned_model"
-MODEL_NAME="BigJuicyData/coder-final"
+MODEL_NAME="BigJuicyData/Anni"
 
 TMUX_BIN="/home/metnet/miniconda3/bin/tmux"
 

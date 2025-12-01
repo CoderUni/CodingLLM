@@ -8,7 +8,7 @@ WORKDIR="/mnt/storage/metnet/coding_llm"
 VENV_PATH="LiveCodeBench/livecodebench/bin/activate" 
 
 # Huggingface model name
-MODEL_NAME="BigJuicyData/coder-final"
+MODEL_NAME="BigJuicyData/Anni"
 RELEASE_VERSION="release_v6"
 MAX_TOKENS=28000
 TEMPERATURE=0.2
