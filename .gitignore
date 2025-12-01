@@ -1,0 +1,16 @@
+.vscode/
+env/
+venv/
+
+
+.cache/
+.ipynb_checkpoints/
+data/
+logs/
+*.log
+__pycache__/
+unsloth_compiled_cache/
+wandb/
+.DS_Store
+
+old_code/
