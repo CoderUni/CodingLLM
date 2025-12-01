@@ -13,7 +13,6 @@ Anni
 <a href="https://github.com/CoderUni/CodingLLM/actions/workflows/codeql.yml">
   <img src="https://github.com/CoderUni/CodingLLM/actions/workflows/codeql.yml/badge.svg" alt="Build Status">
 </a>
-</a>
 </p>
 
 <p align="center">
@@ -80,7 +79,7 @@ To start the training process, run the shell script:
 
 ## 📂 Project Structure
 
-### Source Code (`src/`)
+### Source (`src/`)
 | File | Description |
 |------|-------------|
 | [`preprocess.py`](src/preprocess.py) | Downloads the [OpenCodeReasoning-2 dataset](https://huggingface.co/datasets/nvidia/OpenCodeReasoning-2) and preprocesses it for training. |
@@ -109,7 +108,7 @@ All other elements, such as **frontend code, project name and logo**, are **trad
 
 ---
 
-## Training Dataset Notice
+## 📚 Training Dataset Notice
 
 The training dataset includes openly licensed sources under **CC-BY-4.0**, which **permits commercial use with attribution**.
 
@@ -120,7 +119,7 @@ The training dataset includes openly licensed sources under **CC-BY-4.0**, which
 > Note: The dataset itself is **not included** in this model release.
 ---
 
-## Disclaimer
+## ⚠️ Disclaimer
 
 This model may generate incorrect or unsafe code.
 Evaluate and verify outputs before using in production.
