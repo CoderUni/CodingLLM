@@ -23,7 +23,7 @@ The frontend code (web), project name, logo, and other brand identifiers are **t
 
 This model was trained using datasets that include openly licensed sources. We gratefully acknowledge the following:
 
-* **Training Data Source:** [OpenCoderReasoning-2](https://link-to-dataset-if-available)
+* **Training Data Source:** [OpenCodeReasoning-2](https://huggingface.co/datasets/nvidia/OpenCodeReasoning-2)
 * **License:** Creative Commons Attribution 4.0 International (CC-BY-4.0)
 
 > **Note:** The original dataset is **not** included in this model release.
