@@ -72,7 +72,7 @@ Open `.env` and configure it to match your vLLM setup:
 VLLM_URL="http://localhost:8000/v1"
 
 # The specific model name you are serving (Must match vLLM config)
-VLLM_MODEL="BigJuicyData/coder-final"
+VLLM_MODEL="BigJuicyData/Anni"
 
 # Context window limit
 VLLM_TOKEN_LIMIT="32000"
