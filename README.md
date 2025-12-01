@@ -5,7 +5,7 @@ Anni
 </h1>
 
 <p align="center">
-  <a href="https://huggingface.co/BigJuicyData/Anni" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Anni-ffc107?color=ffc107&logoColor=white"/></a>&nbsp;<a href="https://modelscope.cn/models/quanteat/Anni" target="_blank"><img alt="ModelScope Model" src="https://img.shields.io/badge/🤖%20ModelScope-Anni-604ad3?color=604ad3"/></a>&nbsp;<a href="https://github.com/CoderUni/CodingLLM/actions/workflows/codeql.yml"><img src="https://github.com/CoderUni/CodingLLM/actions/workflows/codeql.yml/badge.svg" alt="Build Status"></a>
+  <a href="https://huggingface.co/BigJuicyData/Anni" target="_blank"><img alt="Hugging Face" src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Anni-ffc107?color=ffc107&logoColor=white"/></a>&nbsp;<a href="https://modelscope.cn/models/quanteat/Anni" target="_blank"><img alt="ModelScope Model" src="https://img.shields.io/badge/🤖%20ModelScope-Anni-604ad3?color=604ad3"/></a>&nbsp;<a href="https://github.com/CoderUni/Anni/actions/workflows/codeql.yml"><img src="https://github.com/CoderUni/Anni/actions/workflows/codeql.yml/badge.svg" alt="Build Status"></a>
 </p>
 
 <p align="center">

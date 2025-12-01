@@ -45,8 +45,8 @@ Follow these instructions to set up the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/CoderUni/CodingLLM.git
-cd CodingLLM/web
+git clone https://github.com/CoderUni/Anni.git
+cd Anni/web
 ```
 
 ### 2. Install Dependencies
